@@ -119,13 +119,12 @@ In the event of such cases being reported, we will apply the highest ethical sta
 ## Citation
 
 ```bibtex
-@misc{jang2024kodialogbench,
-      title={KoDialogBench: Evaluating Conversational Understanding of Language Models with Korean Dialogue Benchmark}, 
-      author={Seongbo Jang and Seonghyeon Lee and Hwanjo Yu},
-      year={2024},
-      eprint={2402.17377},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{jang2024kodialogbench,
+  title={KoDialogBench: Evaluating Conversational Understanding of Language Models with Korean Dialogue Benchmark},
+  author={Jang, Seongbo and Lee, Seonghyeon and Yu, Hwanjo},
+  booktitle={Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)},
+  pages={9905--9925},
+  year={2024}
 }
 ```
 
